@@ -1,7 +1,7 @@
 print("DUKORE IKWADARATO \nSHIRAMWO IGIHARURO KINGANA N'URUHANDE RW'INO KWADARATO")
 while True:
     ma_chaine = ''
-    n = int(input("igiharuro: "))
+    n = int(input("Igiharuro: "))
     m = n - 2
     ma_chaine = '* '+'* '*m +'*'
     ma_chaine_y = '*'+ ' '*(2*m+1) + '*'
